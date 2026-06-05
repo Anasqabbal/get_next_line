@@ -20,8 +20,6 @@ Reading from a file descriptor efficiently without knowing its size beforehand i
 - Handles multiple file descriptors seamlessly (Bonus part).
 - Strictly leak-proof, ensuring memory is cleanly freed upon EOF or error.
 
-
-- add a task to do later  on this file
 ## 📥 How to Clone
 To clone this project, use the following command:
 ```bash
